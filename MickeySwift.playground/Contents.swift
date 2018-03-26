@@ -410,7 +410,7 @@ for _ in 1...10 {
     countNo += 1
 }
 
-for number in stride(from: 1, to: 2, by: 2) {
+for number in stride(from: 1, to: 10, by: 2) {
     print(number)
 }
 
